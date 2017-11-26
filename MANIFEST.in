@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include iverifii_report *.css
+recursive-include iverifii_report *.csv
+recursive-include iverifii_report *.html
+recursive-include iverifii_report *.ico
+recursive-include iverifii_report *.js
+recursive-include iverifii_report *.json
+recursive-include iverifii_report *.md
+recursive-include iverifii_report *.png
+recursive-include iverifii_report *.py
+recursive-include iverifii_report *.svg
+recursive-include iverifii_report *.txt
+recursive-exclude iverifii_report *.pyc
