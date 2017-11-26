@@ -1,6 +1,6 @@
 ## Iverifii Report
 
-Customized Reports for by Iverifii [D[D[B[A
+Customize Report App for by Iverifii
 
 #### License
 
